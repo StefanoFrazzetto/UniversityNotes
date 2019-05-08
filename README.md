@@ -1,0 +1,3 @@
+# University Notes
+
+This is an incomplete collection of my notes for the B.Sc. in Applied Computing (2017-2019) at the University of Stirling. Please note that most of the notes _are not_ complete, and are not intended to replace any course material provided by the module lecturer(s). If you would like to make any corrections, additions, etc. please create a pull request. I hope they will help you with your studies. You may also find other helpful, and often more complete, notes on [Vittorio's profile](https://github.com/SirPryderi).
